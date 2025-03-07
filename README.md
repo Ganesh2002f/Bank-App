@@ -11,5 +11,6 @@ Login Page : - This is login page where user fill their username and password an
 
 ![image alt](https://github.com/Ganesh2002f/Bank-App/blob/main/img3.png?raw=true)
 
+Deposit :- We have option deposite where user can deposit his cash in account
 ![image alt](https://github.com/Ganesh2002f/Bank-App/blob/main/img4.png?raw=true)
 
