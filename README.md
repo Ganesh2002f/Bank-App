@@ -7,6 +7,7 @@ Register Page :- This is register page where user register their account detail
 
 ![image alt](https://github.com/Ganesh2002f/Bank-App/blob/main/img2.png.png?raw=true)
 
-Login Page : -
+Login Page : - This is login page where user fill their username and password and get log in
+
 ![image alt](https://github.com/Ganesh2002f/Bank-App/blob/main/img3.png?raw=true)
 
